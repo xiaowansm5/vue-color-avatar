@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://wwang.pw"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        时光
       </a>
     </div>
 
