@@ -3,7 +3,7 @@
     <div
       data-message="If you are deploying to your own public website, please do not modify it unless you have permission from the original author."
     >
-      Made by
+      Powered by
       <a
         class="link"
         href="https://wwang.pw"
