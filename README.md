@@ -73,4 +73,10 @@ docker build -t vue-color-avatar:v1 .
 docker run -d -t -p 5173:8080 --name vue-color-avatar --restart=always vue-color-avatar:v1
 ```
 
-Finally, open your browser and access the service's address at http://serverIP:5173
+Finally, open your browser and access the service's address at http://serverIP:5173.
+
+### Deployed on Zeabur
+
+Our project is powered by [Zeabur](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn). Their high-quality server services ensure the stable operation of our project. Need quality server services? Check them out via the link!
+
+[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn)
