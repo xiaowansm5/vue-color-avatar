@@ -27,6 +27,22 @@ Features you might be interested in:
 - i18n
 - Generate multiple avatars in batch
 
+## Project Documentation
+
+Want to dive deeper into the project architecture, code organization, and technical implementation?
+
+🔍 **[Explore DeepWiki AI Documentation](https://deepwiki.com/Codennnn/vue-color-avatar)**
+
+DeepWiki uses AI technology to automatically analyze the entire project, providing:
+
+- 📋 Project architecture overview
+- 🔍 Code structure analysis
+- 💡 Core functionality insights
+- 🗺️ Component dependency diagrams
+- 🚀 Implementation details and best practices
+
+_Perfect for newcomers to get started quickly and contributors to understand the project deeply_
+
 ## Assets
 
 > **Note**  
@@ -65,9 +81,3 @@ Once the container is running, open your browser and visit:
 
 - http://localhost:3000 (if running locally)
 - http://your-server-ip:3000 (if running on a server)
-
-### Deployed on Zeabur
-
-Our project is powered by [Zeabur](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn). Their high-quality server services ensure the stable operation of our project. Need quality server services? Check them out via the link!
-
-[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=Codennnn&utm_source=Codennnn)
